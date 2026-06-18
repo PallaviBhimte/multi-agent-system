@@ -17,9 +17,7 @@ The final result is a research report along with constructive AI-generated feedb
 
 # 🎥 Demo
 
-```markdown
 [Watch Demo Video](https://drive.google.com/file/d/13isTtgD2P7IzFYV0pMnLivd3tEvIifHY/view?usp=share_link)
-```
 
 ---
 
